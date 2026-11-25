@@ -1,0 +1,8 @@
+{
+  "_readme": "ملف التحديث الوحيد الذي تحتاج استبداله على الاستضافة (Vercel/Netlify/غيرها) لتعديل الموقع دون إعادة رفع ZIP. المجموعات: books=كتب جديدة (t=العنوان، pub=دار النشر، ser=السلسلة، f=الصيغة، d=رابط التحميل، au=المؤلف، src=الصفحة الأصلية)؛ edit=تعديل كتاب حسب المعرّف؛ delete=حذف كتب بالمعرّف؛ covers=روابط أغلفة كاملة تبدأ بـ https://؛ site=مزايا الموقع ونصوصه (text: brand/badge/heroTitle/heroLead/footerNote، announcement: enabled/text/href/linkLabel، notice: enabled/title/body، quickLinks: [{label,href}]). كل تعديلات الكتب والمزايا تُدار من لوحة الإدارة ثم تُصدَّر إلى هذا الملف. لا توجد أغلفة مضمّنة في الحزمة.",
+  "books": [],
+  "edit": {},
+  "delete": [],
+  "covers": {},
+  "site": {}
+}
